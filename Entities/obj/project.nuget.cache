@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Ap0QUvBeuoLMfwlcyBDb3eFiEi8YuIeQsLGkg9S6N+9wgiBrfMcAp0llQBqnaBPfxTXbv+j8blqXpLEE9bwnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projeler\\CSharp\\BookPenaltyCalculation\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erdi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\erdi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\erdi\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
