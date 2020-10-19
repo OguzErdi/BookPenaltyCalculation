@@ -1,7 +1,7 @@
 # BookPenaltyCalculation
 A simple penalty calculation app for borrowed books.
 
-**Technologies:*
+## Technologies:
 * .Net Core 3.1
 * Angular 9
 * Entity Framework Core
